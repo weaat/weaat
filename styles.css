@@ -51,8 +51,19 @@ body, html {
 
 .links a:hover,
 .links button:hover {
-  color: #ff69b4;
   transform: scale(1.1); /* Увеличение */
+}
+
+.telegram:hover {
+  color: #00aaff; /* Голубой цвет */
+}
+
+.discord:hover {
+  color: #8a2be2; /* Фиолетовый цвет */
+}
+
+.minecraft:hover {
+  color: #00ff00; /* Лаймовый цвет */
 }
 
 .copied-notice {
