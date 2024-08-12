@@ -1,2 +1,2 @@
 мой сайт lando
-weaat.github.io/weaat
+https://weaat.github.io/weaat
