@@ -59,11 +59,11 @@ body, html {
 }
 
 .discord:hover {
-  color: #013783; /* Фиолетовый цвет */
+  color: #013783; /* Синий цвет */
 }
 
 .github:hover {
-  color: #7900ff; /* Лаймовый цвет */
+  color: #696969; /* Фиолетовый цвет */
 }
 
 .copied-notice {
