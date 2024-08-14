@@ -63,7 +63,7 @@ body, html {
 }
 
 .github:hover {
-  color: #696969; /* Фиолетовый цвет */
+  color: #ff0000; /* Фиолетовый цвет */
 }
 
 .copied-notice {
